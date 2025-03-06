@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.1.0">
   <diagram name="Page-1" id="8PJF-7k6O8kf38LD9RbU">
-    <mxGraphModel dx="770" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Pmdtr9oIzFHYsxCgHXhq-8" value="LXC" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="565" y="168.75" width="155" height="448.25" as="geometry" />
+          <mxGeometry x="570" y="168.75" width="150" height="448.25" as="geometry" />
         </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="H-8ICV9-0rw6bkesGoe8-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -56,11 +56,11 @@
         <mxCell id="H-8ICV9-0rw6bkesGoe8-21" value="Docker-prod&lt;div&gt;&lt;div&gt;CT101&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="584" y="288.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="H-8ICV9-0rw6bkesGoe8-22" target="H-8ICV9-0rw6bkesGoe8-65" edge="1">
+        <mxCell id="Pmdtr9oIzFHYsxCgHXhq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="H-8ICV9-0rw6bkesGoe8-22" target="Pmdtr9oIzFHYsxCgHXhq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-22" value="HAOS&lt;div&gt;VM102&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="584" y="636.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="636.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-23" value="Bookstack&lt;div&gt;&lt;div&gt;CT104&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="584" y="459.5" width="120" height="60" as="geometry" />
@@ -71,9 +71,6 @@
         <mxCell id="H-8ICV9-0rw6bkesGoe8-28" value="nginx proxy&lt;br&gt;&amp;nbsp;manager&lt;div&gt;(Debian12)&lt;br&gt;&lt;div&gt;CT103&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="584" y="540.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-65" value="APC UPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-67" value="Cloudflare" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,15 +79,6 @@
         </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-69" value="domain.xyz" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-70" value="Tuya" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-71" value="Homekit Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-72" value="environment canada" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UK7bh5dRqCB79iwSgrZ0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" parent="1" source="UK7bh5dRqCB79iwSgrZ0-1" target="UK7bh5dRqCB79iwSgrZ0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,6 +263,24 @@
         </mxCell>
         <mxCell id="Pmdtr9oIzFHYsxCgHXhq-19" value="Unraid&lt;div&gt;(storage server)&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
           <mxGeometry x="789.9999999999999" y="273" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmdtr9oIzFHYsxCgHXhq-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="569" y="717" width="150" height="185.38" as="geometry" />
+        </mxCell>
+        <mxCell id="Pmdtr9oIzFHYsxCgHXhq-30" value="Devices" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="Pmdtr9oIzFHYsxCgHXhq-31">
+          <mxGeometry width="150" height="185.38" as="geometry" />
+        </mxCell>
+        <mxCell id="H-8ICV9-0rw6bkesGoe8-65" value="APC UPS" style="rounded=0;whiteSpace=wrap;html=1;" parent="Pmdtr9oIzFHYsxCgHXhq-31" vertex="1">
+          <mxGeometry x="14.999999999999943" y="144.63" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H-8ICV9-0rw6bkesGoe8-70" value="Tuya" style="rounded=0;whiteSpace=wrap;html=1;" parent="Pmdtr9oIzFHYsxCgHXhq-31" vertex="1">
+          <mxGeometry x="15" y="104.63" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H-8ICV9-0rw6bkesGoe8-71" value="Homekit Controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="Pmdtr9oIzFHYsxCgHXhq-31" vertex="1">
+          <mxGeometry x="15" y="64.63" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H-8ICV9-0rw6bkesGoe8-72" value="environment canada" style="rounded=0;whiteSpace=wrap;html=1;" parent="Pmdtr9oIzFHYsxCgHXhq-31" vertex="1">
+          <mxGeometry x="15" y="24.629999999999995" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
