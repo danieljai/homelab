@@ -15,3 +15,5 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 ## Purpose
 
 This project serves as a way to document my homelab journey and share insights into my technical skills and creativity. It combines my passion for system administration, networking, and modern computing practices. I hope it provides inspiration and sparks interesting conversations about homelab setups and network design.
+
+![Homelab Network Diagram](92king_homelab.svg)
