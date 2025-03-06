@@ -19,3 +19,6 @@ Welcome to my Home Lab Repository! This repository is used to save relevant file
 - **Tunnel Services**: Secure access to home lab resources from anywhere, using tools like Cloudflare and Tailscale.
 - **Automations**: Streamlining tasks and workflows using automation tools like changedetection.io and Home Assistant.
 - **Home Assistant OS (HAOS)**: Centralized platform for home automation, controlling smart devices, and integrating with various services.
+
+![Homelab Network Diagram](diagram/92king_homelab.drawio)
+
