@@ -17,6 +17,7 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 - Reverse proxy with SSL
 - Explore other ways to keep media player secure, using custom domain name while not exposing to public.
 - Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
+
 ![Homelab Network Diagram](92king_homelab.svg)
 Updated: 2024-03-07
 
