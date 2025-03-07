@@ -1,6 +1,6 @@
 # Homelab Network Diagram
 
-Welcome to my homelab network diagram repository! This diagram highlights the architecture and design of my homelab setup, showcasing my skills in virtualization, containerization, and application services for personal use.
+Welcome to my homelab network diagram repository! This diagram highlights the architecture and design of my homelab setup, documenting the use of virtualization, containerization, and application services for personal use.
 
 ## What You'll Find Here
 
@@ -17,3 +17,9 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 This project serves as a way to document my homelab journey and share insights into my technical skills and creativity. It combines my passion for system administration, networking, and modern computing practices. I hope it provides inspiration and sparks interesting conversations about homelab setups and network design.
 
 ![Homelab Network Diagram](92king_homelab.svg)
+
+## To-do list
+
+- Reverse proxy with SSL
+- Explore other ways to keep media player secure, using custom domain name while not exposing to public.
+- Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
