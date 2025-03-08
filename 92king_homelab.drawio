@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="8PJF-7k6O8kf38LD9RbU">
-    <mxGraphModel dx="1447" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Pmdtr9oIzFHYsxCgHXhq-8" value="LXC" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="810" y="96.75" width="150" height="448.25" as="geometry" />
-        </mxCell>
-        <mxCell id="H-8ICV9-0rw6bkesGoe8-20" value="Docker-dev&lt;div&gt;(Debian 12)&lt;br&gt;&lt;div&gt;&lt;div&gt;CT11x&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="824" y="302.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JpR7qqVXLkJ56dBlj6J--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H-8ICV9-0rw6bkesGoe8-21" target="JpR7qqVXLkJ56dBlj6J--1">
           <mxGeometry relative="1" as="geometry">
@@ -108,7 +105,7 @@
           <mxGeometry x="15" y="74" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F_XST8kIAoM1eg2vmdfE-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" parent="1" vertex="1">
-          <mxGeometry x="920" y="424.63" width="20" height="20" as="geometry" />
+          <mxGeometry x="824" y="423.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F_XST8kIAoM1eg2vmdfE-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" parent="1" vertex="1">
           <mxGeometry x="824" y="507.5" width="20" height="20" as="geometry" />
@@ -379,6 +376,12 @@
               <mxPoint x="1170" y="124" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H-8ICV9-0rw6bkesGoe8-20" value="Docker-dev&lt;div&gt;(Debian 12)&lt;br&gt;&lt;div&gt;&lt;div&gt;CT11x&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="824" y="302.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpR7qqVXLkJ56dBlj6J--71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" vertex="1" parent="1">
+          <mxGeometry x="824" y="340.2" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
