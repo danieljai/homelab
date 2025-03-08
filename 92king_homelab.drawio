@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="8PJF-7k6O8kf38LD9RbU">
-    <mxGraphModel dx="965" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JpR7qqVXLkJ56dBlj6J--65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="113.5" width="150" height="265.5" as="geometry" />
+          <mxGeometry x="1420" y="34.5" width="150" height="265.5" as="geometry" />
         </mxCell>
         <mxCell id="JpR7qqVXLkJ56dBlj6J--64" value="Public Network Mgmt." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="JpR7qqVXLkJ56dBlj6J--65">
           <mxGeometry width="150" height="265.5" as="geometry" />
@@ -341,9 +341,6 @@
         </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-69" value="Custom Domain" style="rounded=0;whiteSpace=wrap;html=1;" parent="JpR7qqVXLkJ56dBlj6J--65" vertex="1">
           <mxGeometry x="15" y="32.25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JpR7qqVXLkJ56dBlj6J--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="F_XST8kIAoM1eg2vmdfE-44" target="JpR7qqVXLkJ56dBlj6J--64">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpR7qqVXLkJ56dBlj6J--67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="540" width="200" height="80" as="geometry" />
@@ -365,23 +362,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JpR7qqVXLkJ56dBlj6J--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="JpR7qqVXLkJ56dBlj6J--40" target="JpR7qqVXLkJ56dBlj6J--64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JpR7qqVXLkJ56dBlj6J--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="JpR7qqVXLkJ56dBlj6J--64" target="UK7bh5dRqCB79iwSgrZ0-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="115" y="20" />
-              <mxPoint x="1170" y="20" />
-              <mxPoint x="1170" y="124" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H-8ICV9-0rw6bkesGoe8-20" value="Docker-dev&lt;div&gt;(Debian 12)&lt;br&gt;&lt;div&gt;&lt;div&gt;CT11x&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="824" y="302.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JpR7qqVXLkJ56dBlj6J--71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" vertex="1" parent="1">
           <mxGeometry x="824" y="340.2" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JpR7qqVXLkJ56dBlj6J--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.89;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="JpR7qqVXLkJ56dBlj6J--64" target="UK7bh5dRqCB79iwSgrZ0-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
