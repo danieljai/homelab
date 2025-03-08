@@ -4,20 +4,20 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 
 ## What You'll Find Here
 
-- **Up-to-Date Diagram**: The latest version of my homelab network diagram, including details about:
-  - **Hypervisors**: The foundation of my virtualized environment.
+- **Up-to-Date Diagram**: The latest reversion of my homelab network diagram, including some details about:
+  - **Hypervisors**: The foundation of my CTs and VMs.
   - **Virtual Machines (VMs)**: Deployed for various purposes, from development to testing.
   - **Containers**: Lightweight and efficient solutions for running isolated applications.
-  - **Application Services**: Personal-use services like media streaming, backups, and home automation.
+  - **Application Services**: App services such as media organizing, web servers, network monitoring, backups, and home automation.
 
 - **Ongoing Improvements**: As my homelab grows and evolves, this repository will be continuously updated to reflect its latest state.
 
-## To-do list
-
-- Reverse proxy with SSL
-- Explore other ways to keep media player secure, using custom domain name while not exposing to public.
-- Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
 
 ![Homelab Network Diagram](https://github.com/danieljai/homelab/blob/ed43334ac46e8afedbe34717887e13dcb0f44888/diagram/92king_homelab.png)
 Updated: 2024-03-07
 
+## Pending list
+
+- Reverse proxy with SSL
+- Explore other ways to keep media player secure, using custom domain name while not exposing to public.
+- Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
