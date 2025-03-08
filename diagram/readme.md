@@ -18,6 +18,6 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 - Explore other ways to keep media player secure, using custom domain name while not exposing to public.
 - Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
 
-![Homelab Network Diagram](https://github.com/danieljai/homelab/blob/6689b10555391b8190c29fb8a7115db1f737b4ca/diagram/92king_homelab.svg)
+![Homelab Network Diagram](https://github.com/danieljai/homelab/blob/ed43334ac46e8afedbe34717887e13dcb0f44888/diagram/92king_homelab.png)
 Updated: 2024-03-07
 
