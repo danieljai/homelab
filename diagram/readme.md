@@ -13,7 +13,7 @@ Welcome to my homelab network diagram repository! This diagram highlights the ar
 - **Ongoing Improvements**: As my homelab grows and evolves, this repository will be continuously updated to reflect its latest state.
 
 
-![Homelab Network Diagram](https://github.com/danieljai/homelab/blob/ed43334ac46e8afedbe34717887e13dcb0f44888/diagram/92king_homelab.png)
+![Homelab Network Diagram](https://github.com/danieljai/homelab/blob/4eee310b72505c710949d1557f1c88788d08bfdf/diagram/92king_homelab.png)
 Updated: 2024-03-07
 
 ## Pending list
