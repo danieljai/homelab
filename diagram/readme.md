@@ -21,3 +21,4 @@ Updated: 2024-03-07
 - Reverse proxy with SSL
 - Explore other ways to keep media player secure, using custom domain name while not exposing to public.
 - Minimalistic web server CT, capable of serving a web form to accept user input data and process it through Python trained ML model, returning the inference output.
+- Set up Proxmox Backup Service to push LXC backups to S3
